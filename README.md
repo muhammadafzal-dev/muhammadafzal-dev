@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Muhammad Afzal</h1>
-<h3 align="center">Full-Stack MERN Developer · React.js · Next.js · React Native</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f172a&height=220&section=header&text=Muhammad%20Afzal&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20React%20Native&descSize=18&descAlignY=58&animation=fadeIn" alt="Muhammad Afzal — Full-Stack MERN Developer" width="100%" />
+</p>
+
+<h3 align="center">Hi 👋, welcome to my GitHub</h3>
 
 <p align="center">
   <a href="https://muhammadafzal.vercel.app">
