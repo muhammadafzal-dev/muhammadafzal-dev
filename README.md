@@ -71,12 +71,10 @@ React Native apps across real estate, e-commerce, news, and healthcare.
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammadafzal-dev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadafzal-dev&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&line=14b8a6&color=14b8a6&point=f8fafc" alt="contribution graph" />
 </p>
 
 ---
