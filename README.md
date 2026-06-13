@@ -2,6 +2,12 @@
 <h3 align="center">Full-Stack MERN Developer · React.js · Next.js · React Native</h3>
 
 <p align="center">
+  <a href="https://muhammadafzal.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=900&color=14B8A6&center=true&vCenter=true&width=620&lines=React.js+Developer;Next.js+Engineer;React+Native+Developer;Node.js+Developer;NestJS+Developer;AI+Voice+Agents+%E2%80%94+OpenAI+%C2%B7+Hume+%C2%B7+ElevenLabs" alt="typing animation" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadafzal-dev&label=Profile%20views&color=0e7c66&style=flat" alt="profile views" />
   <a href="https://muhammadafzal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-live-0ea5a4?style=flat&logo=vercel&logoColor=white" alt="portfolio" /></a>
   <a href="https://linkedin.com/in/muhammadafzal-dev"><img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
